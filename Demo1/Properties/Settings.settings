@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EzdDemo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Demo1_localhost_EncryptWS" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8080/axis2/services/EncryptWS.EncryptWSHttpSoap11Endpoint/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
